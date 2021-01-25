@@ -1,0 +1,9 @@
+/.git
+/.idea
+/venv
+/db.sqlite3
+
+/.test1
+/test
+/.test
+/test.py
